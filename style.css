@@ -108,7 +108,7 @@ blockquote {
   font-family: 'PT Serif', serif;
 }
 
-@media screen and (max-width:320px) {
+@media screen and (max-width:640px) {
   h1 {
     font-size:35px;
     margin-top:150px;
